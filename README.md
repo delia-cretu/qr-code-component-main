@@ -13,7 +13,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 
 ## Overview
 
@@ -32,8 +31,8 @@ Access here:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/delia-cretu/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://delia-cretu.github.io/product-preview-card-component-main/)
+- Solution URL: https://github.com/delia-cretu/qr-code-component-main
+- Live Site URL: https://delia-cretu.github.io/qr-code-component-main/
 
 ## My process
 
@@ -45,18 +44,4 @@ Access here:
 
 ### What I learned
 
-I learned:
-
-- how to use flexbox
-- how to center a flexbox on the page (although I am still a bit confused about it)
-- how to use media queries
-- how to swap images depending on screen size
-
-### Continued development
-
-Centering elements within a CSS flexbox
-Gain a better understanding of how to use media queries
-
-### Useful resources
-
-- This website is very good and I used it consistently while doing this challenge (https://developer.mozilla.org/en-US/docs/Web/HTML)
+I practiced using CSS Flexbox.
