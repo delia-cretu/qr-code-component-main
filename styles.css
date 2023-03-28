@@ -1,6 +1,9 @@
 body {
   background-color: #d6e2f0;
 }
+
+/* CSS Flexbox layout*/
+
 .flexbox-wrapper {
   height: 100vh;
   display: flex;
@@ -35,12 +38,16 @@ body {
   padding: 20px 10px 30px 10px;
 }
 
+/* QR code section*/
+
 img {
   border-radius: 5%;
   width: 100%;
   height: 100%;
   object-fit: fill;
 }
+
+/* text section */
 
 .title {
   color: #1f3251;
@@ -53,6 +60,8 @@ img {
   font-weight: 400;
   font-size: 0.9375rem;
 }
+
+/* Footer */
 
 .attribution {
   font-size: 0.75rem;
