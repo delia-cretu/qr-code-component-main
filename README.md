@@ -26,8 +26,7 @@ Users should be able to:
 ### Screenshot
 
 Access here:
-./screenshot-desktop.jpg
-./screenshot-mobile.jpg
+![](./screenshot.jpg)
 
 ### Links
 
